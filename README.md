@@ -1,2 +1,2 @@
-# PREPCURSE-HENRY-2024-
-ESTE ES UN REPOSITORIO DEL MODULO 2 DEL PREP CURSE HENRY 2024
+Esta es una pruba de como crear un repositorio y clonaro desde github a mi computadora
+
